@@ -1,0 +1,8 @@
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\bin\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.deps.json
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\bin\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.dll
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\bin\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.pdb
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\obj\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.AssemblyInfoInputs.cache
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\obj\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.AssemblyInfo.cs
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\obj\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.dll
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\obj\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.pdb
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator.UnitTests\obj\Debug\netcoreapp3.1\Pangot.Calculator.UnitTests.csprojAssemblyReference.cache

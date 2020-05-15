@@ -1,0 +1,7 @@
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator\bin\Debug\netcoreapp3.1\Pangot.Calculator.deps.json
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator\bin\Debug\netcoreapp3.1\Pangot.Calculator.dll
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator\obj\Debug\netcoreapp3.1\Pangot.Calculator.AssemblyInfoInputs.cache
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator\obj\Debug\netcoreapp3.1\Pangot.Calculator.AssemblyInfo.cs
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator\bin\Debug\netcoreapp3.1\Pangot.Calculator.pdb
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator\obj\Debug\netcoreapp3.1\Pangot.Calculator.dll
+C:\Users\anato\source\repos\PANGOTestCalculator\Pangot.Calculator\obj\Debug\netcoreapp3.1\Pangot.Calculator.pdb

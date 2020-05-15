@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PANGOTestCalculator", "PANGOTestCalculator\PANGOTestCalculator.csproj", "{40E873FB-A2EA-4E30-AA2D-E8F1EA52879F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D8758EC3-0FC1-4460-9E1B-3B51D23E57D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C9931F9C-6C56-415A-8DE5-0F0C538C02BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{FAADD671-4D83-4FA9-A666-55A2606E00B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangot.Calculator", "Pangot.Calculator\Pangot.Calculator.csproj", "{FC3AC27A-5BED-439E-B86F-B53C19D023C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangot.Calculator.UnitTests", "Pangot.Calculator.UnitTests\Pangot.Calculator.UnitTests.csproj", "{42622B7A-0885-4E96-9ED1-2524E63ED03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E873FB-A2EA-4E30-AA2D-E8F1EA52879F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E873FB-A2EA-4E30-AA2D-E8F1EA52879F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E873FB-A2EA-4E30-AA2D-E8F1EA52879F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E873FB-A2EA-4E30-AA2D-E8F1EA52879F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3AC27A-5BED-439E-B86F-B53C19D023C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3AC27A-5BED-439E-B86F-B53C19D023C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3AC27A-5BED-439E-B86F-B53C19D023C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3AC27A-5BED-439E-B86F-B53C19D023C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42622B7A-0885-4E96-9ED1-2524E63ED03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42622B7A-0885-4E96-9ED1-2524E63ED03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42622B7A-0885-4E96-9ED1-2524E63ED03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42622B7A-0885-4E96-9ED1-2524E63ED03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40E873FB-A2EA-4E30-AA2D-E8F1EA52879F} = {D8758EC3-0FC1-4460-9E1B-3B51D23E57D2}
+		{FC3AC27A-5BED-439E-B86F-B53C19D023C4} = {C9931F9C-6C56-415A-8DE5-0F0C538C02BB}
+		{42622B7A-0885-4E96-9ED1-2524E63ED03E} = {FAADD671-4D83-4FA9-A666-55A2606E00B8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FDF137-35FA-4353-8C83-266373B04897}
+	EndGlobalSection
+EndGlobal
